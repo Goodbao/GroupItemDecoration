@@ -1,5 +1,4 @@
 # GroupItemDecoration
-Android 自定义ItemDecoration-实现分组吸顶效果
 
 **[Android 自定义ItemDecoration-实现分组吸顶效果](https://www.jianshu.com/p/eaabde1880db)**
 - 使用自定义ItemDecoration 来实现RecyclerView的分组头，还有吸顶的效果
